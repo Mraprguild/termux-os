@@ -1,0 +1,15 @@
+bash
+coreutils
+curl
+git
+gh
+nano
+openssh
+python
+wget
+zip
+unzip
+tar
+jq
+termux-api
+proot-distro
